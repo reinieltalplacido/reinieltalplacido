@@ -41,16 +41,17 @@
 📊 <b>GitHub Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reinieltalplacido&show_icons=true&theme=tokyonight" alt="Reiniel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reinieltalplacido&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="Reiniel's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reinieltalplacido&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=reinieltalplacido&hide_border=true&background=0D1117&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=CCCCCC&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinieltalplacido&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinieltalplacido&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
 </p>
+
 
 ---
 
