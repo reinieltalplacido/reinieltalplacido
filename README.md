@@ -7,6 +7,10 @@
   <a href="https://reiniel.vercel.app" target="_blank">reiniel.vercel.app</a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=reinieltalplacido.reinieltalplacido" alt="Profile views" />
+</p>
+
 ---
 
 🌟 &nbsp;I turn ideas into beautiful, functional web experiences.
@@ -34,10 +38,18 @@
 
 ---
 
-📊 <b>My Creativity Level</b>
+📊 <b>GitHub Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=reinieltalplacido&theme=github-compact" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reinieltalplacido&show_icons=true&theme=tokyonight" alt="Reiniel's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=reinieltalplacido&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinieltalplacido&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -47,3 +59,7 @@
     <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
+
+<!--
+**reinieltalplacido/reinieltalplacido** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile!
+-->
