@@ -47,8 +47,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=reinieltalplacido&hide_border=true&background=0D1117&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=CCCCCC&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF" alt="GitHub Streak" />
+  <a href="https://streak-stats.demolab.com?user=reinieltalplacido">
+    <img src="https://streak-stats.demolab.com?user=reinieltalplacido&hide_border=true&background=0D1117&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=CCCCCC&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinieltalplacido&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
