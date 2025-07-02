@@ -13,7 +13,7 @@
 
 ---
 
-🌟 &nbsp;I turn ideas into beautiful, functional web experiences.
+
 
 🛠️ &nbsp;<b>Tech Stack:</b>
 <p align="center">
@@ -33,7 +33,7 @@
 
 ---
 
-✨ <b>About Me</b>
+
 - 🎓 3rd Year BSIT student @ NEUST
 - 💻 I love building clean UIs and solving real-world problems
 - 🚀 Always learning and exploring new tools
