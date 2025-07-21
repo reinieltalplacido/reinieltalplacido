@@ -36,11 +36,7 @@
 
 ---
 
-📊 <b>GitHub Stats</b>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reinieltalplacido&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="Reiniel's GitHub stats" />
-</p>
 
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=reinieltalplacido">
