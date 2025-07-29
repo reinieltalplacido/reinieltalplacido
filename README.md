@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Reiniel!
 
 **Student | Designer & Developer**  
-<p align="center">
+<p>
   <a href="https://reiniel.vercel.app" target="_blank">
     <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=for-the-badge&logo=vercel"/>
   </a>
