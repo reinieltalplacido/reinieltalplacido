@@ -3,7 +3,11 @@
 # 👋 Hi there, I'm Reiniel!
 
 **Student | Designer & Developer**  
-🌐 [reiniel.vercel.app](https://reiniel.vercel.app)
+<p align="center">
+  <a href="https://reiniel.vercel.app" target="_blank">
+    <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=reinieltalplacido.reinieltalplacido)
 
@@ -52,9 +56,5 @@
 
 ---
 
-<p align="center">
-  <a href="https://reiniel.vercel.app" target="_blank">
-    <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
+
 
