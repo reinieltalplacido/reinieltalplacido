@@ -1,6 +1,6 @@
 <!-- Hi there 👋, I'm Reiniel Tal Placido! -->
 
-# 👋 Hi there, I'm Reiniel!
+# 👋 Hi there, I'm Reiniel.
 
 **Student | Developer**  
 <p>
