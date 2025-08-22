@@ -1,4 +1,4 @@
-<!-- Hi there 👋, I'm Reiniel Tal Placido! -->
+
 
 # 👋 Hi there, I'm Reiniel!
 
