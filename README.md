@@ -1,4 +1,3 @@
-
 # 👋 Hi there, I'm Reiniel!
 
 **Student | Developer**  
@@ -35,33 +34,19 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
-
-
-
-
 ---
 
-
-- 🎓 3rd Year BSIT student @ NEUST
-- 💻 I love building clean UIs and solving real-world problems
-- 🚀 Always learning and exploring new tools
+- 🎓 3rd Year BSIT student @ NEUST  
+- 💻 I love building clean UIs and solving real-world problems  
+- 🚀 Always learning and exploring new tools  
 
 ---
-
-
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reiniel&theme=violet-punch)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reiniel&theme=midnight-purple)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinieltalplacido&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
-
 ---
-
-
-
