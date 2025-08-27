@@ -51,11 +51,9 @@
 
 
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com?user=reinieltalplacido">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reiniel&theme=vue&background=45%2CEB158C%2C3000EB)](https://git.io/streak-stats)
-  </a>
-</p>
+## 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reiniel&theme=violet-punch)](https://git.io/streak-stats)
+
 
 
 <p align="center">
