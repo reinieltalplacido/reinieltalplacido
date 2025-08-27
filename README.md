@@ -41,7 +41,13 @@
 - 🚀 Always learning and exploring new tools  
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reinieltalplacido&theme=midnight-purple)](https://git.io/streak-stats)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=reinieltalplacido&theme=midnight-purple" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 
 <p align="center">
