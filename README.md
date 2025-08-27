@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=reinieltalplacido">
-    <img src="https://streak-stats.demolab.com?user=reinieltalplacido&hide_border=true&background=0D1117&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=CCCCCC&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF" alt="GitHub Streak" />
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reiniel&theme=vue&background=45%2CEB158C%2C3000EB)](https://git.io/streak-stats)
   </a>
 </p>
 
