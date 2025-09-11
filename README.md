@@ -38,7 +38,7 @@
 
 
 - 🎓 3rd Year BSIT student @ NEUST
-- 💻 I love building clean UIs and solving real-world problems
+- 💻 I love building clean UIs
 - 🚀 Always learning and exploring new tools
 
 ---
