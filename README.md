@@ -55,5 +55,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinieltalplacido&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
 </p>
-
-
