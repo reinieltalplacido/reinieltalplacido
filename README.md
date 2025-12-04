@@ -1,51 +1,47 @@
-# 👋 Hi there, I'm Reiniel!
+# 👋 Hi, I'm Reiniel
 
-**Student | Developer**  
+**Student | Web Developer**  
+Building clean, modern web applications with **Next.js**, **Tailwind CSS**, and **MySQL**.
+
 <p>
   <a href="https://reiniel.vercel.app" target="_blank">
-    <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=for-the-badge&logo=vercel"/>
+    <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-00FFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=reinieltalplacido.reinieltalplacido)
+---
 
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-## 🎯 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### 💡 About Me
+- 🎓 3rd Year BSIT student @ NEUST  
+- 💻 Passionate about clean UI and meaningful UX  
+- 🚀 Always learning, building, and experimenting with modern stacks  
 
 ---
 
-
-- 🎓 3rd Year BSIT student @ NEUST
-- 💻 I love building clean UIs
-- 🚀 Always learning and exploring new tools
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat&logo=tailwind-css&logoColor=38B2AC)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=339933)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=4479A1)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat&logo=php&logoColor=777BB4)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat&logo=cplusplus&logoColor=00599C)
 
 ---
 
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=0078d7)
+![NPM](https://img.shields.io/badge/NPM-0D1117?style=flat&logo=npm&logoColor=CB3837)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat&logo=figma&logoColor=F24E1E)
 
+---
 
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=reinieltalplacido">
@@ -53,8 +49,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinieltalplacido&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
 </p>
-
