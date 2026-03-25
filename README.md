@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reinieltalplacido&theme=radical&short_numbers=true" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=reinieltalplacido)](https://github.com/reinieltalplacido)
 </p>
 
 ---
