@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=reinieltalplacido)](https://github.com/reinieltalplacido)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=reinieltalplacido)](https://github.com/reinieltalplacido)
 </p>
 
 ---
