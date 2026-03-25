@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/reinieltalplacido">
-    <img src="https://streak-stats.demolab.com?user=reinieltalplacido&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=reinieltalplacido&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
