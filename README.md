@@ -16,4 +16,4 @@
 
 ---
 
-# **NEVER STOP LEARNING**
+# **NEVER STOP IMPROVING**
