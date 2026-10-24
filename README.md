@@ -1,10 +1,15 @@
 # 👋 Hi there, I'm Reiniel!
 
-<p>
+
+<p align="left">
   <a href="https://reinielll.is-a.dev/" target="_blank">
-    <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4B9CD3?style=for-the-badge&logo=vercel"/>
+    <img
+      src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Website-2563EB?style=for-the-badge"
+      alt="Visit My Portfolio"
+    />
   </a>
 </p>
+
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" />
 
